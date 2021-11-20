@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgba(209,219,234,255) !important;
+}
+.text{
+    color: white !important;
+    /* padding-right: 290px; */
+}
+.titlcard{
+    color: black !important;
+}
+.crd{
+    margin: 20px !important;
+    /* background-color: black; */
+    border-radius: 20px !important;
+}
+
+.card001{
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+}
